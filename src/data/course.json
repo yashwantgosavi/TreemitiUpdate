@@ -1,0 +1,71 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "Graphic Designing Course",
+      "img": "../images/graphic-design.png",
+      "description": "<p>A <b> Graphic Designer</b> is responsible for creating design solutions that have a high visual impact. The role involves listening to clients and understanding their needs before making design decisions.<p/><p>Their designs are required for a huge variety of products and activities, such as websites, advertising, books, magazines, posters,computer games, product packaging, exhibitions and displays, corporate communications and corporate identity e.g. giving organizations a visual 'brand' etc.<p/><p>A graphic designer works to a brief agreed with the client, creative director or account manager. They develop creative ideas and concepts, choosing the appropriate media and style to meet the client's objectives.<p/><p>The work demands creative flair, up-to-date knowledge of industry software and a professional approach to time, costs and deadlines.<p/><p>Graphic Designer salary in India ranges between<b> ₹ 1.1 Lakhs to ₹ 6.5 Lakhs </b>with an average annual salary of <b>₹ 3.0 Lakhs.</b> Salary estimates are based on 18.8k salaries received from Graphic Designers. <b>Source : Ambitionbox</b>, Updated on : June, 2022"
+    },
+    {
+      "id": 2,
+      "name": "Ui Ux Designing Course",
+      "description": "If you're looking for a career that's both creative and challenging, consider becoming a UI UX designer. As a UI UX designer, you'll be responsible for designing user interfaces and user experiences that are both appealing and easy to use. You'll need to have strong design skills and a good understanding of human-computer interaction.<br/><br/>The User Interface (UI) is the graphical layout of an application. It consists of the buttons users click on, the text they read, the images, sliders, text entry fields, and all the rest of the items the user interacts with. This includes screen layout, transitions, interface animations and every single micro-interaction.<br/><br/> A User Experience (UX) of the app is determined by how they interact with it. Is the experience smooth and intuitive or clunky and confusing? Does navigating the app feel logical or does it feel arbitrary? Does interacting with the app give people the sense that they’re efficiently accomplishing the tasks they set out to achieve or does it feel like a struggle? User experience is determined by how easy or difficult it is to interact with the user interface elements that the UI designers have created.<br/><br/> UI/UX Designer salary in India ranges between ₹ 2.1 Lakhs to ₹ 15.0 Lakhs with an average annual salary of ₹ 5.5 Lakhs. Salary estimates are based on 5.3k salaries received from UI/UX Designers. Source : Ambitionbox, Updated on : June, 2022<br/><br/>"
+    },
+    {
+      "id": 3,
+      "name": "Web Designing Course",
+      "description": "Website Designing, also known as Front-End development, is the process of creating the look and feel of a website. This involves creating the layout, styling the text, adding images and other multimedia, and making sure everything works properly."
+    },
+    {
+      "id": 4,
+      "name": "Web Development Course",
+      "description": "A Web developer is the architect of a Web site, creating the foundation upon which designers and content editors apply their work. A Web developer uses software, computer languages and other tools to make a Web site look, act and feel the way a user needs and expects. Web developers can also maintain a site's database and organization while continuing to develop the site to its fullest potential."
+    },
+    {
+      "id": 5,
+      "name": "Digital Marketing Course",
+      "description": "Digital marketing is a term that is used to describe the process of marketing products and services using digital technologies. This can include using the internet, social media, mobile devices, and other digital channels."
+    },
+    {
+      "id": 6,
+      "name": "Application Development Course",
+      "description": "Application development is the process which, includes not only the actual writing of code but also the preparation of requirements and objectives, the design of what is to be coded, and conformation that what is developed has met objectives."
+    },
+    {
+      "id": 7,
+      "name": "AI ML Data Science Course",
+      "description": "Data science is the study of data: how it's collected, how it's used, and how it can be turned into knowledge. It's a scientific way to understand calculation on the basis of various data collection. Data science helps us find patterns and insights in data, and it can be used to make better decisions in business and our personal lives."
+    },
+    {
+      "id": 8,
+      "name": "Dev Ops Specialist Course",
+      "description": "Dev Ops Specialisation is a set of practices that combines software development and IT operations. It aims to shorten the systems development life cycle and provide continuous delivery with high software quality. is complementary with Agile software development; several aspects came from the Agile methodology."
+    }
+  ],
+  "features": [
+    {
+      "name": "Career Guidance",
+      "description":"<p>In today's world when numerous fields are available to build career knowing which one suited best for ourself is very important. One can excel himself / herself with the field which keep his / her interest alive. Many a times students are not able to decide which is the right field for them. Even parents are not able to understand which is the best suited field for their child. This all happen due to unawareness of current and future requirements in the various fields.</p><p>At Treemiti Informatics we look at student ability to understand various things and their educational background, which help us to guide them for future planning. We suggest them the roadmap to achieve their goals and also provide technologies possible at our end.</p><p> If you are interested in developing your career in Information Technology. We help you to select the right option suitable to your qualification. We conduct various workshops and seminars to make student aware about trends and technologies.</p><p> To know more about Career Paths click here</p>"
+    },
+    {
+      "name": "Industrial Syllabus",
+      "description":"<p>It is generally felt that there is a wide gap between education and industry requirements. Students often complain that they are not properly prepared for the workplace after completing their studies.</p><p> In order to bridge this gap, it is important for educators to understand the needs of industry and align their syllabi accordingly. Only then can students be adequately prepared for the challenges they will face in the real world.</p><p>Some key areas that should be addressed in the syllabus are: - Communication skills - Teamwork - Problem solving - Critical thinking - Time management - Conflict resolution - Interpersonal skills</p><p> All the mentionded skills are developed in students with many scientifically designed workshops and events and students are guided and graded in their certication as per their efforts in the activities</p>"
+    },
+    {
+      "name": "Experienced Faculties",
+      "description":"<p>A faculty with a lot of experience in the industry is a definite advantage for the students. They are knowledgeable about the practical issues and know how to solve them. They also have field knowledge and can offer insights that are invaluable for their students.</p><p>The faculty should have a deep understanding of the domain, which is essential for teaching students. This is because they will be able to provide more practical advice and answer questions directly related to their area of expertise.</p><p>It is important that the faculty has hands-on experience in the industry they are teaching in, so that they can offer insights that are invaluable for their students.</p><p> A faculty’s experience is an important factor in determining the quality of their teaching. Treemiti is blessed with faculties having experience of minimum 5+ years in their respective domains.</p>"
+    },
+    {
+      "name": "Trusted Certifications",
+      "description":"<p>Treemiti certification is a certification that is well-known and respected in the industry. A certification by Treemiti will help students to get a job, or it will give you the skills that are needed to have a better chance at finding a job. It can also help you advance in your career.</p><p>If you are looking for a job, then having a trusted certification can make all the difference.</p><p>If you are looking for more skills or to advance your career, then having an industry-acknowledged certificate will open up new opportunities for you.</p><p>So being in a part of Treemiti will help you in all ways of your career advancement</p>"
+    },
+    {
+      "name": "Personel Development",
+      "description":"<p>The process of enhancing and refining one's inner and outer selves in order to make a good change in one's life is referred to as personality development.</p><p>The amount of effort one puts into their profession is no longer the only factor in determining success; one's personality also plays a significant role.</p><p>For Personality Development Tips click here</p>"
+    },
+    {
+      "name": "Placement Assistance",
+      "description":"<p>The placement assistance service is designed to help students find suitable placements for their desired profession, and to help employers find the right candidates. It will be a win-win situation for both the students and the employers.</p><p>In order to get a better understanding of what this service is about, it is important to know what placement assistance does. The placement assistance service enables students to find placements in a specific domain, according to their interests and skillsets. Students can also use it as a platform for getting advice on how they should prepare themselves before finding a job or internship position. Employers can use this service as well, but with different intentions: they can use it as an opportunity to get in touch with potential new employees or interns that they might not have found otherwise.</p> <p>The future placement support will be mainly focused on job satisfaction. This will ensure that students are happy with their work, so they will be more likely to stay in the company after their placement is over.</p>"
+    }
+  ]
+}

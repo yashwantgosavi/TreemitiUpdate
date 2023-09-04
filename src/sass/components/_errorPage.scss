@@ -1,0 +1,25 @@
+#errorSec{
+    width: 100%;
+    height: 100vh;
+    border: 2px solid red;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#errorSec h1{
+    font-size: 2.5rem;
+    margin: 1.5rem 0;
+    color: red;
+}
+#errorSec p{
+    font-size: 1.5rem;
+    color: red;  
+}
+#errorSec .errorBtn{
+    padding: 0.2rem;
+    margin-top: 1.5rem;
+    background-color: #878989;
+    color: #fff;
+    padding: 0.5rem 1rem;
+}

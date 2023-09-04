@@ -1,0 +1,169 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+}
+
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+.container{
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+    border: 2px solid red;
+}
+
+
+// .mainSec{
+//     width: 100%;
+//     height: 100vh;
+//     border: 2px solid red;
+//     padding-top: 4rem;
+// }
+// header{
+//     display: flex;
+//     flex-direction: column;
+//     justify-content: center;
+//     align-items: center;
+//     padding-top: 4rem;
+// }
+// h2{
+//     text-align: center;
+// }
+// .boxCont{
+//     width: 1200px;
+//     /* border: 2px solid blue; */
+//     margin: 2rem auto;
+//     display: flex;
+//     justify-content: space-around;
+//     flex-wrap: wrap; 
+// }
+// .aboutSec{
+
+//     padding: 2.5rem 8%;
+//     text-align: center;
+//     padding-top: 4rem;
+
+// }
+// .aboutSec p{
+//     font-size: 1.1rem;
+//     line-height: 1.5rem;
+//     margin: 3rem 0;
+// }
+// .featureCont{
+//     width: 1000px;
+//     margin: 2rem auto;
+//     display: flex;
+//     flex-wrap: wrap;
+//     justify-content: space-around;
+//     align-items: center;
+//     /* border: 2px solid blue;   */
+// }
+// .reviewCont{
+//     width: 1200px;
+//     height: 500px;
+//     margin: 3rem auto;
+//     display: flex;
+//     justify-content: space-between;
+// }
+// .reviewCont .reviewBox{
+//     width: 49%;
+//     height: 100%;
+//     border: 2px solid blue;
+// }
+// .placementSec {
+//     width: 100%;
+//     height: 70vh;
+//     border: 2px solid red;
+//     padding-top: 4rem;
+// }
+// .slider{
+//     width: 1200px;
+//     height: 300px;
+//     border: 2px solid blue;
+//     display: flex;
+//     justify-content: center;
+//     align-items: center;
+//     margin: 3rem auto;
+// }
+// .guideCont{
+//     width: 1200px;
+//     height: 500px;
+//     border: 2px solid blue;
+//     margin: 2rem auto;
+//     display: flex;
+//     justify-content: space-between;
+//     font-size: 1.5rem;
+// }
+// .guideCont .guideText{
+//     width: 60%;
+//     height: 100%;
+//     padding: 2rem 0;
+//     border: 2px solid blue; 
+// }
+// .guideCont .guideText .guideBtn{
+//     padding: 0.5rem 1rem;
+//     font-size: 1rem;
+// }
+// .guideCont .guideText h4{
+//     text-align: center;
+  
+// }
+// .guideCont .guideText p{
+//     font-size: 1rem;
+//     line-height: 1.5rem;
+//     margin: 1rem 0;
+// }
+// .guideCont .guideForm{
+//     width: 38%;
+//     height: 100%;
+//     border: 2px solid blue; 
+//     display: flex;
+//     justify-content: center;
+//     align-items: center;
+// }
+// .contactSec{
+//     height: 80vh;
+//     display: flex;
+//     justify-content: center;
+//     align-items: center;
+//     font-size: 1.5rem;
+//     padding-top: 4rem;
+
+// }
+
