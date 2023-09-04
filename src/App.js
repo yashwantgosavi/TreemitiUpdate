@@ -7,7 +7,7 @@ import Footer from './components/Footer';
 import CoursePage from './components/CoursePage';
 import ErrorPage from './components/ErrorPage';
 import FeaturePage from './components/FeaturePage';
-// import CareerGuide from './components/CareerGuide';
+import CareerGuide from './components/CareerGuide';
 
 function App() {
   const router = createBrowserRouter([
