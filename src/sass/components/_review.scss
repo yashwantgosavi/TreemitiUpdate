@@ -1,0 +1,30 @@
+.reviewSec{
+    width: 100%;
+    height: 100vh;
+    border: 2px solid blue;
+    padding-top: 5rem;
+
+    #reviews{
+        @include flexrow;
+        flex-direction: column;
+
+        h2{
+            font-size: 2rem;
+            margin-bottom: 2rem;
+            color: $red;
+        }
+        .reviewCont{
+            width: 100%;
+            // border: 2px solid red;
+            @include flexrow;
+            justify-content: space-between;
+
+            .reviewBox{
+                width: 48%;
+                height: 60vh;
+                border: 2px solid blue;
+
+            }
+        }
+    }
+}

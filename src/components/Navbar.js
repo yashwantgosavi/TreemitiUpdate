@@ -1,13 +1,15 @@
 import React from 'react'
 import { HashLink } from 'react-router-hash-link';
-function Navbar() {
 
+
+function Navbar() {
   return (
     <React.Fragment>
       <nav>
-        <div className="container">
+        <div className="container"  id='navbar'>
           <div className="logoBox">
-            <img src="" alt="" />
+            <h3>Logo</h3>
+            <img src="../images/treemiti-white-logo.png" alt="" />
           </div>
           <ul>
             <li ><HashLink smooth to="/#home">Home</HashLink></li>
@@ -18,12 +20,11 @@ function Navbar() {
             <li ><HashLink smooth to="/#careerGuideSec">Guidance</HashLink></li>
             <li ><HashLink smooth to="/#contactSec">Contact</HashLink></li>
           </ul>
+        <div className="buttonBox">
+          {/* <button className='navBtn' id='loginBtn'>Login</button>
+          <button className='navBtn' id='signUpBtn'>Sign Up</button> */}
         </div>
-
-        {/* <div className="buttonBox">
-          <button>Login</button>
-          <button>Sign Up</button>
-        </div> */}
+        </div>
       </nav>
     </React.Fragment>
   )

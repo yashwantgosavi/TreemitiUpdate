@@ -1,0 +1,24 @@
+.placementSec{
+    width: 100%;
+    height: 60vh;
+    border: 2px solid red;
+    padding-top: 5rem;
+    // @include flexrow;
+
+    #placement{
+        @include flexrow;
+        flex-direction: column;
+
+        h2{
+            font-size: 2rem;
+            color: $red;
+            margin-bottom: 2rem;
+        }
+        .slider{
+            width: 100%;
+            height: 40vh;
+            border: 2px solid $red;
+            @include flexrow;
+        }
+    }
+}

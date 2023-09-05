@@ -1,59 +1,58 @@
 nav {
   width: 100%;
-  height: 4rem;
+  height: 5rem;
   display: flex;
   justify-content: space-between;
   align-items: center;
+  // border: 2px solid red;
+  background-color: $primaryColor;
+  color: $white;
+  position: fixed;
 
-  .logoBox {
-    width: 150px;
-    height: 100%;
-    border: 2px solid red;
-  }
-
-  ul {
+  #navbar {
     display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    .logoBox {
+      width: 150px;
+      height: 100%;
+      border: 2px solid $white;
+      padding: 0.5rem 1rem;
+      @include flexrow;
+
+      h3{
+        font-size: 1.5rem
+      }
+    }
+    ul {
+      @include flexrow;
+      li {
+        margin: 0 1rem;
+        font-size: 1.3rem;
+        font-weight: 500;
+        a {
+          text-decoration: none;
+          color: $white;
+        }
+      }
+    }
+    .buttonBox{
+      width: 100px;
+      height: 50px;
+        border: 2px solid blue;
+      // .navBtn{
+      //   padding: 0.5rem 1.2rem;
+      //   font-size: 1.1rem;
+      //   font-weight: 500;
+      //   border: 1px solid $dark;
+      //   background-color: $dark;
+      //   color: $white;
+      //   border-radius: 0.5rem;
+      // }
+      // #loginBtn{
+      //   margin-right: 0.5rem;
+      // }
+    }
   }
 }
-
-// nav{
-//     width: 100%;
-//     padding: 0 8%;
-//     display: flex;
-//     justify-content: space-between;
-//     align-items: center;
-//     border: 2px solid #37ff00;
-//     position: fixed;
-//     /* background-color: #ad05ad; */
-//     /* color: #fff; */
-// }
-// nav ul{
-//     width: 730px;
-//     display: flex;
-//     justify-content: space-between;
-//     align-items: center;
-//     list-style: none;
-//     font-size: 1.2rem;
-//     background-color: #fff;
-//     border: 2px solid blue;
-
-// }
-// nav ul li{
-//     padding: 0.5rem 1rem;
-//     color: #000;
-// }
-// nav .buttonBox{
-//     width: 200px;
-//     /* border: 2px solid blue; */
-//     display: flex;
-//     justify-content: space-between;
-//     align-items: center;
-// }
-// nav .buttonBox button{
-//     padding: 0.5rem 1.4rem;
-//     font-size: 1rem;
-//     border-radius: 2rem;
-//     border: 2px solid #fff;
-//     margin: 0 0rem;
-
-// }

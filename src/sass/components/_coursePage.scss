@@ -1,41 +1,34 @@
 .coursePage {
-    width: 100%;
-    /* height: 100vh; */
-    border: 3px solid #f80ce0;
-    display: flex;
-    flex-direction: column;
-    /* justify-content: space-between; */
-    align-items: center;
-    padding: 4rem 8%;
-}
-.coursePage h1{
-    margin-bottom: 3rem;
-    font-size: 2.2rem;
-    color: #f41e77;
-}
-.coursePage p{
-    margin-bottom: 1.5rem;
-    font-size: 1.2rem;
-    line-height: 1.5rem;
-}
-.coursePage .offerCont{
-    width: 1200px;
-    height: 120vh;  
-    border: 2px solid blue;
-    margin: 2rem 0;
-    padding: 2rem;
-}
- h3{
-    text-align: center;
-    font-size: 1.5rem;
-}
-.courseCont{
-    width: 1200px;
-    /* height:200px; */
-    /* border: 2px solid blue; */
-    margin-top: 1rem;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
+  width: 100%;
+  // height: 150vh;
+  border: 2px solid $red;
+  @include flexrow;
+  padding-top: 5rem;
 
+  #coursePage {
+    // border: 2px solid red;
+    h1 {
+      margin-bottom: 2rem;
+      font-size: 2rem;
+      color: $red;
+      text-align: center;
+    }
+    p {
+      margin-bottom: 1.5rem;
+      font-size: 1.2rem;
+      line-height: 1.5rem;
+    }
+    .offerCont {
+      width: 100%;
+      height: 120vh;
+      border: 2px solid blue;
+      margin: 2rem 0;
+    }
+    h3 {
+      text-align: center;
+      font-size: 1.5rem;
+      margin-top: 1rem;
+    }
+    
+  }
 }
